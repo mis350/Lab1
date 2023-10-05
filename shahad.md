@@ -11,8 +11,8 @@ I'm a student in CBA studing mis
 
  | Item         | Price     | # In stock |
 |--------------|-----------|------------|
-| Juicy Apples | 1.99      | *7*        |
-| Bananas      | **1.89**  | 5234       |
+| foundation | 1.99      | *7*        |
+| lipstick      | **1.89**  | 5234       |
 
 
 fav website [amazone]https://www.amazon.co.uk/?tag=hp2-brobookmark-uk-21

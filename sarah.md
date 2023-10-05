@@ -5,6 +5,7 @@ Hello my name is sara alanezi and Im an MIS student at Kuwait university
 * Accounting 1 
 * MIs 
 * QMIS 
+* internt marketing 
 
 ## Table : 
 | Name | Age | 
@@ -12,8 +13,8 @@ Hello my name is sara alanezi and Im an MIS student at Kuwait university
 | sara | 23  |
 
 ## Image : 
- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Kuwaiti flag.](image-1.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Kuwaiti flag.](image-1.png)
 
  ## Link : 
- [https://www.google.com/]
+[https://www.google.com/]
  

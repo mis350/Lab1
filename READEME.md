@@ -3,6 +3,7 @@ I am the team manager Laila
 All 350 Students are members
 
 
+* Shahad [Link](shahad.md)
 * [Moudi]()
 * Maida's [file](https://github.com/mis350/Lab1/blob/Maida/Maida.md)
 * Ali hussain [Link](https://github.com/mis350/Lab1/blob/origin/ali/Ali-hussain.md)

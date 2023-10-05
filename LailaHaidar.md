@@ -1,5 +1,7 @@
 Hello this is Laila
+
 I help teach sometimes 
+
 *130
 *240
 *230
@@ -12,4 +14,4 @@ I help teach sometimes
 
 Best website ever [google](www.google.com)
 
-!(https://marafiegroup.com/images/Kuwait-University1.jpg)
+![KU](https://marafiegroup.com/images/Kuwait-University1.jpg)

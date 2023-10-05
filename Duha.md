@@ -1,9 +1,9 @@
 Hello this is Duha Aldaihani I am  MIS student from KU - CBA 
 
 Courses I am taking this semster are:
-*Programming 2
-*Data Base 
-*Accounting 2
+* Programming 2
+* Data Base 
+* Accounting 2
 
 
 The below table shows the programming courses I took :

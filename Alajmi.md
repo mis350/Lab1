@@ -6,4 +6,4 @@ Hello, my name is Mohammed Alajmi I'm 22 old
 |  like    |   don't like  |
 |----------|---------------|
 |  Fish    |    APPLE      |
-|   S      |      X        |
+|   m      |      X        |

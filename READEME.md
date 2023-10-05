@@ -2,4 +2,5 @@ I am the team manager Laila
 
 All 350 Students are members
 
-Laila Haidar [link](LailaHaidar.md)
+* Duha's [link](Duha.md)
+* Laila Haidar [link](LailaHaidar.md)

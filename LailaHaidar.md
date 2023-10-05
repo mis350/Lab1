@@ -2,10 +2,10 @@ Hello this is Laila
 
 I help teach sometimes 
 
-*130
-*240
-*230
-*433
+* 130
+* 240
+* 230
+* 433
 
 | like         | dont like |
 |--------------|-----------|

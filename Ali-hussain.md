@@ -1,8 +1,10 @@
 ## Brief :
  My name is ali hussain im 22 years old i have choosed this major to learn more about the computer and to be a good programmer in the future
 
-## list of courses :
- QMIS - MIS - DATABASE - SYSTEM ANALYST
+## Courses :
+* MIS
+* Data Base 
+* QMIS
 
 ## INSERT TABLE :
 | ALI | MOHAMMED |

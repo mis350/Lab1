@@ -16,5 +16,3 @@ I'm a student in CBA studing mis
 
 
 fav website [amazone]https://www.amazon.co.uk/?tag=hp2-brobookmark-uk-21
-
-![makeUp](![Alt text](image.png))

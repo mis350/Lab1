@@ -14,4 +14,4 @@ hello this is abrar
 
 **THIS IS KUWAIT UNIVERSITY PORTAL LINK** [Kuwait University Portal](https://portal.ku.edu.kw/)
 
-![CAT] (https://www.ezoic.com/wp-content/uploads/2019/06/kitty-2048x966.jpg)
+![CAT](https://www.ezoic.com/wp-content/uploads/2019/06/kitty-2048x966.jpg)
